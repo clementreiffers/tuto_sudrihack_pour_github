@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-J'ai mis ule ligne ici, c'est si beau ! (M4NIK0)
-=======
+
 je suis cl(ement + oe)
->>>>>>> 4ca1551f08a25fb41780da6149b017e6d1c1c34e
+c est bon les carottes
